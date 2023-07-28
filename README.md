@@ -1,12 +1,12 @@
-# Hello
+# Hello 👋👋
 
 Hello everyone! My name is Fabricio, and I'm thrilled to share my GitHub repository with you. In this brief introduction, I'll tell you a bit about myself, the technologies I love to work with, and what you can find in this space.
 
-## About Me
+## About Me 👨
 
 I'm 23 years old and a passionate programmer and software developer. My journey in the world of technology began with a curiosity to explore how things work and how I can create real-world solutions through programming. Over the years, I have dedicated myself to honing my skills and expanding my knowledge in various areas of software development.
 
-## Favorite Technologies
+## Favorite Technologies 👨‍💻
 
 The technologies I frequently use and have a great affinity for are:
 
@@ -20,21 +20,19 @@ The technologies I frequently use and have a great affinity for are:
 
 5. **Next.js:** Recently, I've been exploring the power of Next.js for server-rendered React applications. Its built-in features like static site generation and server-side rendering make it a fantastic choice for building high-performance web applications. 
 
-## What You'll Find in This Repository
+## What You'll Find in This Repository 💻
 
 In this GitHub repository, I share some of my projects and experiments using the technologies I mentioned earlier. You'll find projects involving web applications developed in React, mobile apps created with React Native and Flutter, as well as some backend applications using Node.js.
 
 Feel free to explore the projects, check out the source code, and, if you'd like, contribute or provide feedback. I'm always eager to learn and improve, and collaboration is a valuable part of this process.
 
-## Conclusion
+## Conclusion 🆗
 
 Thank you for visiting my GitHub repository and getting to know a bit more about me and my favorite technologies. I hope the projects showcased here will be helpful or inspire others in the world of software development.
 
 If you have any questions, suggestions, or just want to exchange ideas about technology, please feel free to get in touch. Let's learn and grow together on this exciting journey!
 
 Thank you!
-
-Fabricio
 
 ## GitHub Stats
 
