@@ -1,4 +1,4 @@
-# Hello 👋👋
+# Hello 👋
 
 Hello everyone! My name is Fabricio, and I'm thrilled to share my GitHub repository with you. In this brief introduction, I'll tell you a bit about myself, the technologies I love to work with, and what you can find in this space.
 
