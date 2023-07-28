@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## GitHub Stats
+
+<a href="https://github.com/faslash">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=faslash&show_icons=true&theme=dracula&count_private=true">
+</a>
+<a href="https://github.com/faslash">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faslash&layout=compact&theme=dracula&count_private=true">
+</a>
