@@ -18,6 +18,8 @@ The technologies I frequently use and have a great affinity for are:
 
 4. **Node.js:** On the server-side, I'm a fan of Node.js. The ability to use JavaScript on both the frontend and backend is a significant advantage. With Node.js, I can develop scalable and real-time applications, leveraging the asynchronous environment for improved performance.
 
+5. **Next.js:** Recently, I've been exploring the power of Next.js for server-rendered React applications. Its built-in features like static site generation and server-side rendering make it a fantastic choice for building high-performance web applications. 
+
 ## What You'll Find in This Repository
 
 In this GitHub repository, I share some of my projects and experiments using the technologies I mentioned earlier. You'll find projects involving web applications developed in React, mobile apps created with React Native and Flutter, as well as some backend applications using Node.js.
